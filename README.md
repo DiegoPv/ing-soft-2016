@@ -43,6 +43,8 @@ Arreguez, Joaquin Eduardo
 
 ## Grupo Go 
  
-Wolfmann Fabian 
-Pasaglia Nicolas
-Colazo Agustin
+Wolfmann,Fabian 
+
+Pasaglia ,Nicolas
+
+Colazo ,Agustin
