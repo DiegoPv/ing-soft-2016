@@ -82,7 +82,7 @@ Del Boca, Juan, 37850419
 
 Maero, Facundo, 38479441
 
-Gonz�les, Gustavo, 7721064
+Gonzalez, Gustavo, 7721064
 
 #### Grupo FSociety
 Alecha, Gonzalo 37825549
