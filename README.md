@@ -90,3 +90,9 @@ Gonzalez, Gustavo, 7721064
 Alecha, Gonzalo 37825549
 
 Rivero, Franco Fabian 38111351
+
+#### Grupo BurningTeam
+
+Aguerreberry, Matthew 93739112
+Tomattis, Natasha 38728783
+Trombotto, Agustin 39071116
