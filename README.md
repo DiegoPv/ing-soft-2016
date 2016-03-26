@@ -58,6 +58,8 @@ Alecha Gonzalo, 37825549
 
 Maero Facundo 38479441
 
+Armando, Gaspar Ignacio 38333248
+
 #### Grupo SegFault
 
 Perez, Federico 37053195
