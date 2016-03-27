@@ -60,6 +60,8 @@ Maero Facundo 38479441
 
 Armando, Gaspar Ignacio 38333248
 
+Pavon, Diego Alejandro 32161056
+
 #### Grupo SegFault
 
 Perez, Federico 37053195
@@ -98,3 +100,10 @@ Rivero, Franco Fabian 38111351
 Aguerreberry, Matthew 93739112
 Tomattis, Natasha 38728783
 Trombotto, Agustin 39071116
+
+#### Grupo Masacre
+
+Callejo, Alejandro 32913074
+Esperanza, Manuel 200404576
+Pavon, Diego Alejandro 32161056
+ 
